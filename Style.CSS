@@ -1,0 +1,74 @@
+<!DOCKTYPE html>
+ <html lang="en">
+ <head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+   <title>document</title>
+   <link rel="stylesheet" href="01.css" type="text/CSS">
+ </head>
+ <body>
+  <header>
+  <img src="image.jpg" alt="toothbrush" class="img">
+  <h1>The Dental Hygiene Association </h1>
+ <span class="links">
+  <a href=""> Home </a>
+ <a href=""> Adults </a>
+ <a href=""> Kids </a>
+ <a href=""> News </a>
+ <a href=""> FAQ </a>
+ <a href=""> Glossary</a>
+ </span>
+ <nav class="nav">
+   
+  <h5> Only 46% of households buy toothbrushes </h5>
+ </nav>
+  </header>
+ <hr>
+ <main div class="main">
+ <div class="article">
+  <ul>
+ <label><b> NEWS AND EVENTS</b> </label>
+ <br><br>
+ <label> Click To Find Out More</label>
+ <br><br>
+  <li> Irish Academy of Aesthetic</li>
+  <li> Dentistary (IAAD) Meeting</li>
+  <li> Irish dentestry report on eating disorders</li>
+  <li>IDA Annual Conference 2014</li>
+  <li>Material saliva predicts dental</li>
+ </ul>
+</div>
+<div class="form">
+ <h2 style="text-align: center"> FIND A DENTIST </h2>
+ <p style="text-align: center">
+  Looking for a dentist in your area? Enter Your Details and search for Dentist near you!
+ </p>
+ First Name of Dentist :
+ <input type="text" name="dentist" placeholder="First Name" maxlength="15" size="20" style="background-color: white">
+ <br>
+ Last Name : 
+ <br>
+ <input type="text" name="dentist" placeholder="Last Name" maxlength="15" size="20" style="background-color: white">
+ <br>
+ Location : 
+ <br>
+<input type="text" name="location" placeholder="Location" maxlength="15" size="20" style="background-color: white">
+<br>
+What type of Dentist are you looking for ?
+<br>
+<input type="checkbox" name="dentist"> Orthodontist 
+<br>
+<input type="checkbox" name="dentist"> General Dental Practitioner
+ </div>
+ <div class="list">
+  <h2 style="text-align: center"><b>QUICK TIPS </b> </h2>
+  <ul>
+   <li> Change your toothbrush every 3 months </li> <br>
+   <li> Floss Everyday</li> <br>
+   <li> See your Dentist every 6  Months </li> <br>
+   <li> Cut down on how often you have sweet drinks and foods</li>  </ul>
+ </div>
+ </main>
+ </body>
+ </html>
